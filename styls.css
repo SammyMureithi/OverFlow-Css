@@ -1,0 +1,16 @@
+.box{
+    width: 150px;
+    height: 100px;
+    border: 2px solid greenyellow;
+    overflow: scroll;
+}
+.images{
+    display: flex;
+    overflow: scroll;
+  
+}
+.images img{
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+}
